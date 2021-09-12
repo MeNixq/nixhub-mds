@@ -4,7 +4,7 @@
 
 Security:
 
-  - Added pin system for prem users.
+  - Added premium system
 
 Features:
 
