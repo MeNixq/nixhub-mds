@@ -8,7 +8,9 @@ Security:
 
 Features:
 
-  - Website & Prem panel (BETA)
+  - Added Website 
+  - Enhanced code
+  - Added premium system
   - Added a bunch off NSFW commands
   - Added a bunch off SFW commands
   - Added developers to info cmd
